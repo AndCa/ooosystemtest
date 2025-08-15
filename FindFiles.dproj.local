@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.437,=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.463,C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\FindFilesTask.pas=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\FindFile.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.384,C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\FindFiles.dproj=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.532,C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\FindFiles.dproj=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\Searcher.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.935,C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\FindFile.pas=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.190,=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\SharedAPI.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.573,C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\SharedAPI.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.144,C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\Searcher.dproj=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\FindFiles.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.652,=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

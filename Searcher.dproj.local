@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.652,=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.175,=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.375,=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,C:\Users\a_user\Documents\Embarcadero\Studio\Projects\MainForm.dfm=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\DLLLoader.pas=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.637,C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\Searches.dproj=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,C:\Users\a_user\Documents\Embarcadero\Studio\Projects\MainForm.pas=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.673,C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\SharedAPI.pas=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.798,C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\Searches.dproj=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\Searcher.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.567,=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.964,C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\TaskManager.pas=C:\Users\a_user\Documents\Embarcadero\Studio\Projects\HH_Systema\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

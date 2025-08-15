@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{DAF5BF96-1F55-49DA-BD2D-1FC4B9F4327D}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Searcher.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="FindFiles.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Searcher">
+        <MSBuild Projects="Searcher.dproj"/>
+    </Target>
+    <Target Name="Searcher:Clean">
+        <MSBuild Projects="Searcher.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Searcher:Make">
+        <MSBuild Projects="Searcher.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="FindFiles">
+        <MSBuild Projects="FindFiles.dproj"/>
+    </Target>
+    <Target Name="FindFiles:Clean">
+        <MSBuild Projects="FindFiles.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="FindFiles:Make">
+        <MSBuild Projects="FindFiles.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Searcher;FindFiles"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Searcher:Clean;FindFiles:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Searcher:Make;FindFiles:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
